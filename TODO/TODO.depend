@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1726071637 source:c:\users\gigabite\onedrive\desktop\home task\todo\file_handling.c
+	<stdio.h>
+	"file_handling.h"
+	"main.h"
+
+1726071637 c:\users\gigabite\onedrive\desktop\home task\todo\file_handling.h
+
+1726071637 c:\users\gigabite\onedrive\desktop\home task\todo\main.h
+
+1726074015 source:c:\users\gigabite\onedrive\desktop\home task\todo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+	"file_handling.h"
+
